@@ -9,3 +9,9 @@ Este projeto visa abordar o desafio de prever e reduzir a rotatividade de funcio
 * IDE: [Colab](https://colab.research.google.com/)
 * Ferramentas Estatísticas: Métodos Estatísticos e Análise Exploratória de Dados
 * Modelos de Classificação: [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) e [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
+
+# Instalação
+Este projeto usa as seguintes bibliotecas Python na versão 3.9 do Python:
+__pandas, numpy, seaborn, matplotlib.pyplot, sklearn.preprocessing, sklearn.linear_model, sklearn.metrics, sklearn.ensemble, pickle__
+
+Clone este repositório em sua máquina local usando $ git clone https://github.com/RaonyGauto/HR-Analytics-Employee-Attrition-Performance
