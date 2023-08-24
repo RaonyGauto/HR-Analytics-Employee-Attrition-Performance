@@ -31,7 +31,7 @@ Nesta etapa, os dados são preparados para treinamento dos modelos. Isso inclui 
 Nesta etapa, dois modelos de classificação são treinados usando o conjunto de dados. Os modelos são avaliados usando as métricas precision_score, recall_score, f1_score, classification_report. Os modelos utilizados foram Regressão Logística e Random Forest Classifier.
 
 # Resultados
-Os resultados finais do projeto incluem a avaliação dos modelos e a escolha do modelo com melhor desempenho para ser utilizado pela equipe de RH para prever o desgaste dos funcionários. Também são apresentadas análises sobre algumas variáveis que mais chamaram a atenção, com sugestões de melhorias e além do mais o impacto financeiro de contratações novas e prejuízos com funcionários que saem.
+Os resultados finais do projeto incluem a avaliação dos modelos e a escolha do modelo com melhor desempenho para ser utilizado pela equipe de RH para prever o desgaste dos funcionários. Também são apresentadas análises sobre algumas variáveis que mais chamaram a atenção, com sugestões de melhorias e além do impacto financeiro de contratações novas e prejuízos com funcionários que saem.
 
 # Contribuição
 Este projeto está aberto a contribuições e sugestões. Se você tiver alguma sugestão ou correção a fazer, não hesite em enviar um pull request ou abrir uma issue.
