@@ -8,4 +8,4 @@ Este projeto visa abordar o desafio de prever e reduzir a rotatividade de funcio
 * Linguagem de programação: [Python](https://www.python.org/)
 * IDE: [Colab](https://colab.research.google.com/)
 * Ferramentas Estatísticas: Métodos Estatísticos e Análise Exploratória de Dados
-* Modelos de Regressão: [Regressão Linear](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) e [Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)
+* Modelos de Classificação: [Regression Logistic](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) e [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
